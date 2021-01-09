@@ -5,4 +5,4 @@ Système de particules "Afterburner" issu du package Unity officiel [Standard As
 Preview :
 ![Preview afterburner](https://www.tutounity.fr/upload/github/preview-afterburner.gif)
 
-Ce système de particules est utilisé dans l'épisode 9 de la série [FPS Multijoueur avec Mirror](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351) proposé sur la chaîne YouTube [TUTOUNITYFR](https://www.youtube.com/c/tutounityfr).
+Ce système de particules est utilisé dans l'épisode 9 de la série [FPS Multijoueur avec Mirror](https://www.youtube.com/watch?v=65i-egqXY0o&list=PLUWxWDlz8PYI2OdmIhOnxg92kl0DgS1EN) proposée sur la chaîne YouTube [TUTOUNITYFR](https://www.youtube.com/c/tutounityfr).
